@@ -1,0 +1,21 @@
+{
+  "toolchain": "STM32CubeIDE",
+  "variant": "ApplicationTemplate",
+  "fromMx": false,
+  "name": "streamvideoaii",
+  "createdAt": 1775351307249,
+  "lastModified": 1775351986644,
+  "lastAccessed": 1775351917218,
+  "path": "C:\\Users\\julas\\.stm32cubeaistudio\\workspace",
+  "board": "NUCLEO-N657X0-Q",
+  "mcu": "",
+  "type": "BYOM",
+  "uartInstance": {
+    "rxpin": "PE6",
+    "txpin": "PE5",
+    "usart": "USART1",
+    "baudrate": 1843200
+  },
+  "context": "Appli",
+  "contextProject": "FullSecure"
+}
