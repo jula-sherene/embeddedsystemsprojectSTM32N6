@@ -361,15 +361,32 @@ keyboard>=0.13.5
 ## 📄 License
 
 ```
-MIT License — free to use, modify, and distribute
-with attribution.
+Copyright (c) 2026 Jula Sherene 
+All Rights Reserved.
+
+This repository and all its contents — including source code, documentation,
+schematics, reports, and associated files — are made publicly visible for the
+sole purpose of portfolio review by prospective employers, collaborators, and
+academic reviewers.
+
+No license is granted, express or implied, for any of the following:
+  - Reuse of the code or any portion thereof in other projects
+  - Modification or derivative works
+  - Redistribution in any form
+  - Commercial use of any kind
+  - Use for training, fine-tuning, or evaluating machine learning models
+
+All rights are reserved by the copyright holder. For any use beyond review,
+written permission must be obtained from the author.
+
+
 ```
 
 ---
 
 <div align="center">
 
-**Built with ❤️ at University of Tulsa · April 2026**
+**Built at University of Tulsa · April 2026**
 
 *Advanced Embedded Systems · Intro to Research*
 
